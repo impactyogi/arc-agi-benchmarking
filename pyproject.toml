@@ -54,7 +54,7 @@ dependencies = [
     "openai==1.95.1",
     "proto-plus==1.26.0",
     "protobuf==5.29.3",
-    "pyasn1==0.6.1",
+    "pyasn1==0.6.4",
     "pyasn1_modules==0.4.1",
     "requests==2.32.3",
     "rsa==4.9",
