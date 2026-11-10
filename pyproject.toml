@@ -17,7 +17,7 @@ dependencies = [
     "claude-agent-sdk==0.1.18",
     "click==8.1.8",
     "distro==1.9.0",
-    "filelock==3.16.1",
+    "filelock==4.1.0",
     "fsspec==2024.10.0",
     "h11==0.14.0",
     "httpcore==1.0.6",
